@@ -2,4 +2,8 @@ Test 1
 
 Test 2
 
+<<<<<<< HEAD
 Test Qwe
+=======
+Test 3
+>>>>>>> master
