@@ -1,2 +1,2 @@
-Conflict 1: 000
-Conflict 2: 000
+Conflict 1: 111
+Conflict 2: 111
